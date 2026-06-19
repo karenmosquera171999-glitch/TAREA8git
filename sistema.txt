@@ -1,0 +1,22 @@
+uname -a	Información del sistema operativo, kernel y arquitectura.
+hostname	Nombre del servidor o equipo.
+df -h	Espacio disponible y utilizado en los discos.
+free -h	Uso de memoria RAM y swap.
+uptime	Tiempo que el sistema ha estado encendido y carga del sistema.
+whoami	Usuario que está ejecutando la sesión actual.
+ip addr	Direcciones IP e interfaces de red.
+top o htop	Procesos en ejecución y consumo de recursos.
+lscpu	Información del procesador (CPU).
+lsblk	Dispositivos de almacenamiento y particiones.
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+
+Conocer la información del sistema permite:
+
+Diagnosticar problemas de rendimiento, red o almacenamiento.
+Verificar recursos disponibles como CPU, memoria y espacio en disco.
+Planificar actualizaciones y ampliaciones de hardware o software.
+Detectar fallos y cuellos de botella antes de que afecten a los usuarios.
+Mejorar la seguridad, identificando configuraciones incorrectas o componentes desactualizados.
+Administrar servicios eficientemente, asegurando que el servidor funcione de manera estable y confiable.
+
+En resumen, conocer el estado y las características del sistema ayuda a mantener el servidor seguro, optimizado y disponible para los usuarios.
